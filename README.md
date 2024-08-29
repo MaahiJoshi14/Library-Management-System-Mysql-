@@ -1,1 +1,1 @@
-# Library-Management-System-Mysql-
+# Library-Management-System-Mysql-(JAVA, MYSQL) Designed and implemented a Java-based library management system with a MySQL database. Included features for book tracking, user management, table for author,publishers staff and automated overdue book notifications.
